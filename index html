@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Baldi's Basics Game</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #1e1e1e;
+        color: rgb(255, 255, 255);
+        display: flex-start;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      .baldi-container {
+        text-align: center;
+        cursor: pointer;
+        display:flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .baldi-image {
+        width: 150px;
+        height: auto;
+        border-radius: 10px;
+      }
+
+      .baldi-text {
+        font-size: 18px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+    <h1> SupremesNetwork
+      <center>
+    <a href="gmes/baldisbasic.html" 
+      <div class="baldi-container">
+        
+        <img
+          src="https://lh3.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0"
+          alt
+          text="Baldi's Basics"
+          class="baldi-image"
+        />
+        <div class="baldi-text">Baldi's Basics</div>
+      </div>
+
+ 
+  </div>
+</body>
+</html>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+  color: rgb(255, 255, 255);
+  display: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.baldi-container {
+  text-align: center;
+  cursor: pointer;
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.baldi-image {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.baldi-text {
+  font-size: 18px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<center>
+<a href="gmes/fnf.html" 
+<div class="baldi-container">
+  
+  <img
+    src="https://images.gamebanana.com/img/ss/mods/63da91339dfe6.jpg"
+    alt
+    text="Baldi's Basics"
+    class="baldi-image"
+  />
+  <div class="baldi-text">Friday Night Funkin</div>
+</div>
+      
+      
+    </a>
+  </body>
+</html>
